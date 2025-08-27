@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello!! 👋 I'm Korakod Sornchit
+## 🐱‍👤 about me:
+<p align="center">
+	My name is <strong>NINE</strong>
+<p>
 
-<!--
-**Korakod00/Korakod00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+📚 I study in Wat Rajabopit School --> science / math
+ <p>
+ 
+ <p align="center">
+ 💻 I am front-end developer and use HTML | CSS | JavaScript
+<p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🌍 I'm based in Thailand
+ - 💡 I am interesting in web developer
+ - 🌱 never stop growing
+ - 
