@@ -17,7 +17,7 @@ My name is <b>NINE</b> <br>
 	<strong>contact</strong><br>
 	<!--instagram-->
 	<a href="https://www.instagram.com/p.nng9">
-		<img src="facebook.png" width="38px" height="80px" alt="instagram">
+		<img src="facebook.png" width="80px" alt="instagram">
 		</img>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</a>
