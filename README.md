@@ -4,7 +4,7 @@
 <p align="center">
 My name is <b>NINE</b> <br>
 📚 I study in Wat Rajabopit School --> science / math <br>
-💻 I am front-end developer and using HTML | CSS | JavaScript
+💻 I am front-end developer and using HTML | CSS | JavaScript <br>
 🌱 never stop growing
 <p>
  
