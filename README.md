@@ -39,3 +39,5 @@ My name is <b>NINE</b> <br>
 		<img src="images/discord.png" width="80px" alt="discord"></img>
 	</a>
 </p>
+
+---
