@@ -16,7 +16,7 @@ My name is <b>NINE</b> <br>
 	<strong>contact</strong><br>
 	<!--email-->
 	<a href="mailto:nine123mvp@gmail.com" target="_blank">
-		<img src="images/gmail.png" width="80px" alt="gmail"></img>
+		<img src="images/gmail.png" width="80px" alt="gmail" target="_blank"></img>
 	</a>
 	<!--facebook-->
 	<a href="https://www.facebook.com/bilker.dally" target="_blank">
