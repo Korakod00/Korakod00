@@ -15,12 +15,13 @@ My name is <b>NINE</b> <br>
 
 <p align="center">
 	<a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,premiere,photoshop,aftereffects" alt="html,css,javascript,python,figma,premiere,photoshop,aftereffects">
+		<img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,premiere,photoshop,aftereffects" alt="html,css,javascript,python,figma,premiere,photoshop,aftereffects">
 	</a>
 </p>
 
+## contact 📬
+
 <p align="center">
-	<strong>contact</strong><br>
 	<!--email-->
 	<a href="mailto:nine123mvp@gmail.com">
 		<img src="images/gmail.png" width="80px" alt="gmail"></img>
