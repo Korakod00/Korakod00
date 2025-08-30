@@ -5,11 +5,8 @@
 My name is <b>NINE</b> <br>
 📚 I study in Wat Rajabopit School --> science / math <br>
 💻 I am front-end developer and using HTML | CSS | JavaScript
+🌱 never stop growing
 <p>
-
- - 🌍 I'm based in Thailand
- - 💡 I am interesting in web developer
- - 🌱 never stop growing
  
 ## 🌌 Tech skill
 
