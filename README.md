@@ -11,7 +11,7 @@ My name is <b>NINE</b> <br>
  - 💡 I am interesting in web developer
  - 🌱 never stop growing
  
-## Tech skill 🌌
+## 🌌 Tech skill
 
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ My name is <b>NINE</b> <br>
 	</a>
 </p>
 
-## contact 📬
+## 📬 contact
 
 <p align="center">
 	<!--email-->
