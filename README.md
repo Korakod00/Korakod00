@@ -12,7 +12,7 @@ My name is <b>NINE</b> <br>
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma,premiere,photoshop,aftereffects" alt="html,css,python,figma,premiere,photoshop,aftereffects">
+		<img src="https://skillicons.dev/icons?i=html,css,python,figma,premiere,photoshop,aftereffects" alt="html,css,python,figma,premiere,photoshop,aftereffects">
 	</a>
 </p>
 
